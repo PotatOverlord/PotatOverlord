@@ -1,7 +1,1 @@
-- Hi, I’m @PotatOverlord
-- I’m interested in games
-- I’m currently learning - a lot
-- I’m looking to collaborate on various opensource progects
-- How to reach me - N/A
-- Pronouns: He/Him
-- Fun fact: 
+I made this account to add more recipes to ss14.
