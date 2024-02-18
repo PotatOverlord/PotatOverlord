@@ -4,4 +4,4 @@
 - I’m looking to collaborate on various opensource progects
 - How to reach me - N/A
 - Pronouns: He/Him
-- ⚡ Fun fact: 
+- Fun fact: 
