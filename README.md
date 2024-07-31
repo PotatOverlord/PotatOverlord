@@ -3,7 +3,7 @@ I made this account to add more recipes to ss14.
 So far I plan to add:  
 Tzirian foods (https://github.com/tgstation/tgstation/pull/59412)  
 Moffic foods (https://github.com/tgstation/tgstation/pull/63174)  
-Every meat burrito from regular show  
+Food from regular show  
 Allow positronic brains to be picked up by latejoin  
 Give borgs a door remote w/ shock for malfs  
 Add borgs to species guidebook  
